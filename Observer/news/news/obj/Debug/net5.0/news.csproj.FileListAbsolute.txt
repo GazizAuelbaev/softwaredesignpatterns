@@ -1,0 +1,16 @@
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\news.exe
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\news.deps.json
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\news.runtimeconfig.json
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\news.runtimeconfig.dev.json
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\news.dll
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\ref\news.dll
+C:\Users\Газиз\source\repos\Observer\news\news\bin\Debug\net5.0\news.pdb
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.csproj.AssemblyReference.cache
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.AssemblyInfoInputs.cache
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.AssemblyInfo.cs
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.csproj.CoreCompileInputs.cache
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.dll
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\ref\news.dll
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.pdb
+C:\Users\Газиз\source\repos\Observer\news\news\obj\Debug\net5.0\news.genruntimeconfig.cache
