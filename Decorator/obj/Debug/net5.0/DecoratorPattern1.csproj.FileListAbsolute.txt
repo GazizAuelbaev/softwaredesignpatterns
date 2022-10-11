@@ -1,0 +1,16 @@
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\DecoratorPattern1.exe
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\DecoratorPattern1.deps.json
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\DecoratorPattern1.runtimeconfig.json
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\DecoratorPattern1.runtimeconfig.dev.json
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\DecoratorPattern1.dll
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\ref\DecoratorPattern1.dll
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\bin\Debug\net5.0\DecoratorPattern1.pdb
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.csproj.AssemblyReference.cache
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.AssemblyInfoInputs.cache
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.AssemblyInfo.cs
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.csproj.CoreCompileInputs.cache
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.dll
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\ref\DecoratorPattern1.dll
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.pdb
+C:\Users\Газиз\source\repos\Observer\Character\Decorator\obj\Debug\net5.0\DecoratorPattern1.genruntimeconfig.cache
